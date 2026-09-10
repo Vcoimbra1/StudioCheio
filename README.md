@@ -27,6 +27,24 @@ Um sistema único onde o negócio inteiro roda:
 
 Cada estabelecimento é um tenant isolado dentro da mesma aplicação, com página pública própria de agendamento.
 
+## Capturas
+
+| Agenda do dia | Relatórios |
+|---|---|
+| ![Agenda](agenda.png) | ![Relatórios](relatorios.png) |
+
+| Página pública de agendamento | Estoque de insumos |
+|---|---|
+| ![Agendamento](agendamento-publico.png) | ![Estoque](estoque.png) |
+
+| Ficha da cliente | Catálogo de serviços |
+|---|---|
+| ![Ficha da cliente](cliente.png) | ![Serviços](servicos.png) |
+
+> Dados fictícios — ambiente de demonstração.
+
+
+
 ## Stack
 
 | Camada | Tecnologia |
